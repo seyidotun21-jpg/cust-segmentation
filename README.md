@@ -1,3 +1,5 @@
 # Data Portfolio
 
-This is my Portfolio Website!
+# Customer Segmentation Analysis for Data-driven Marketing Strategies
+
+##Data Portfolio: Excel to Powerbi
