@@ -3,7 +3,7 @@
 
 
 ## Description: 
-This is a Customer Segmentation Analysis Project that involves importing customer data from SQL, followed by data cleaning and transformation using Power Query. I also created interactive visualizations to identify distinct customer segments using Power BI. The main objective is to offer critical insights for informed business decision-making and the development of data-driven marketing strategies for my client.
+This is a Customer Segmentation Analysis Project that involves importing customer data from Excel, followed by data cleaning using Power Query and transformation using Power BI. I also created interactive visualizations to identify distinct customer segments using Power BI. The main objective is to offer critical insights for informed business decision-making and the development of data-driven marketing strategies for my client.
 
 ## Data Analysis Steps/WorkFlow
 
@@ -59,6 +59,23 @@ Home Office: £2.3M is the smallest revenue generator.
 ![RegionbySales](assets/image/Screenshot 2025-12-02 221101.png)
 
 The top city is New York with £256K in sales, across all segments, while the top region is the Central region accounting for 22% of total sales- £11.0M
+
+### QUESTION 3: Which product categories contribute the most to overall sales?
+
+![SalesbyCategory](assets/image/Screenshot 2025-12-03 114101.png)
+
+Technology is the largest contributor to across all segments, and accounts for 37% of total sales - £4.7M
+Phones are the highest contributor to sales across all segments, accounting for 13% of total sales - £1.71M
+
+### QUESTION 4: How do order priorities (Critical, High, Medium, Low) impact delivery times?
+
+![OrderPriority](assets/image/Screenshot 2025-12-03 114540.png)
+
+Delivery speed aligns strongly with order priority. Critical orders are fulfilled in under 2 days on average, while low-priority orders take over 6 days. The system effectively prioritizes urgent orders. Medium-priority orders generate most of the total profit, contributing more than all other priority levels combined. High-priority and Critical orders also contribute positively, while Low-priority orders generate minimal profit.
+
+
+
+
 
 
 
