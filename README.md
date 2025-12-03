@@ -167,7 +167,7 @@ Future improvements to this project could include automating the data pipeline t
 Due to Power BI tenant restrictions, a public live link is not available.  
 The full interactive `.pbix` file and dataset are provided in this repository for download and exploration.
 
-## How to Use
+## 🚀 How to Use
 
 - Download the Global Data Analysis.pbix file from this repository.
 - Ensure Power BI Desktop is installed on your machine.
