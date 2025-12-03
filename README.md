@@ -2,8 +2,19 @@
 # Excel to Power BI
 
 
-## Description: 
-This is a Customer Segmentation Analysis Project that involves importing customer data from Excel, followed by data cleaning using Power Query and transformation using Power BI. I also created interactive visualizations to identify distinct customer segments using Power BI. The main objective is to offer critical insights for informed business decision-making and the development of data-driven marketing strategies for my client.
+## Business Problem 
+The client was working with raw customer data stored in Excel but lacked a structured way to analyze customer behavior and identify meaningful customer segments. Without clear segmentation, marketing efforts were broadly targeted, resulting in inefficient campaign spending, lower engagement rates, and missed revenue opportunities. The business needed a centralized, visual, and interactive solution to better understand customer groups, purchasing patterns, and key behavioral trends to support data-driven marketing and strategic decision-making.
+
+## Business Impact:
+This project delivered an interactive Power BI dashboard that transformed raw customer data into clear, actionable customer segments. By enabling the business to visualize customer behavior and segment performance, the solution empowers marketing teams to:
+
+- Design targeted marketing campaigns based on distinct customer profiles
+- Improve customer engagement and retention through personalized strategies
+- Identify high-value and high-risk customer segments
+- Optimize marketing spend and increase campaign effectiveness
+- Support leadership with real-time, data-driven insights for strategic decisions
+
+As a result, the business is now equipped with a scalable analytics solution that replaces manual Excel reporting with a modern, automated, and insight-driven approach.
 
 ## Data Analysis Steps/WorkFlow
 
@@ -148,6 +159,8 @@ Based on insights derived from our analysis, the following are the recommendatio
   
 
 ## Next Steps
+
+Future improvements to this project could include automating the data pipeline through direct database connections and scheduled refreshes in Power BI Service. Additional DAX measures can be developed to support advanced KPIs such as year-over-year growth and forecasting. The dashboard can also be enhanced with drill-through functionality, row-level security for role-based access, and mobile-optimized reporting. Finally, the solution could be deployed to Power BI Service for stakeholder sharing and real-time insights.
 
 
 
