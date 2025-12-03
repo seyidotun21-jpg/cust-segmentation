@@ -48,7 +48,7 @@ Loaded data into Power BI for Analysis
 
 ![TotalSalesbySegment](assets/image/Screenshot 2025-12-02 215254.png)
 
-The sales distribution shows a clear dominance of the Consumer segment:
+The sales distribution shows a clear dominance of the Consumer segment.
 Consumer: £6.5M is the largest contributor, accounting for most of the total revenue,
 Corporate: £3.8M is a strong but secondary segment,
 Home Office: £2.3M is the smallest revenue generator.
@@ -64,14 +64,25 @@ The top city is New York with £256K in sales, across all segments, while the to
 
 ![SalesbyCategory](assets/image/Screenshot 2025-12-03 114101.png)
 
-Technology is the largest contributor to across all segments, and accounts for 37% of total sales - £4.7M
-Phones are the highest contributor to sales across all segments, accounting for 13% of total sales - £1.71M
+Technology is the largest contributor to across all segments, and accounts for 37% of total sales - £4.7M. Phones are the highest contributor to sales across all segments, accounting for 13% of total sales - £1.71M
 
 ### QUESTION 4: How do order priorities (Critical, High, Medium, Low) impact delivery times?
 
 ![OrderPriority](assets/image/Screenshot 2025-12-03 114540.png)
 
-Delivery speed aligns strongly with order priority. Critical orders are fulfilled in under 2 days on average, while low-priority orders take over 6 days. The system effectively prioritizes urgent orders. Medium-priority orders generate most of the total profit, contributing more than all other priority levels combined. High-priority and Critical orders also contribute positively, while Low-priority orders generate minimal profit.
+Delivery speed aligns strongly with order priority. Critical orders are fulfilled in under 2 days on average, while low-priority orders take over 6 days. Medium-priority orders generate most of the total profit, contributing more than all other priority levels combined. High-priority and Critical orders also contribute positively, while Low-priority orders generate minimal profit.
+
+### QUESTION 5: Which shipping modes (Same Day, First Class, Second Class, Standard Class) are most commonly used?
+
+![ShippingModeAnalysis](assets/image/Screenshot 2025-12-03 115304.png)
+
+Standard shipping accounts for 60% of all orders, making it the most widely used ship mode. Every Category relies heavily on standard shipping: Office Supplies, Technology, and Furniture all show their highest shipment volumes under Standard Class. 
+
+Gross profit is consistent across shipping methods, Standard 11.6%, Second 11.58%, First 11.4%, Same Day 11.2%, showing that faster shipping has minimal impact on profitability. Standard shipping not only leads in volume but also drives most of the net profit at £263K.
+
+
+
+
 
 
 
