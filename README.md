@@ -36,9 +36,7 @@ Loaded data into Power BI for Analysis
 - What are the most profitable customer segments, countries, and cities?
 - How do discounts offered impact overall sales and profitability?
 - What are the monthly or quarterly sales trends over the years?
-- How do shipping costs affect the overall profitability of orders?
 - Which customers contribute the most to the business over time?
-- How do high-priority orders compare with low-priority orders in terms of delivery speed and customer satisfaction?
 - How do customer segments perform differently across various global regions?
 
 ### Summary of Key Insights- Dashboard
@@ -105,6 +103,36 @@ For Segment: Higher average discounts correlate with higher profit. This is show
 Sales increased steadily from £2.3M in 2011 to £4.3M in 2014, showing a near-doubling of revenue within just four years.
 
 Across all four years, Q4 repeatedly delivers the highest sales, with values rising from £0.84M in 2011 to £1.54M in 2014.
+
+### QUESTION 9: Which customers contribute the most to the business over time?
+
+![CLV](assets/image/Screenshot 2025-12-03 220428.png)
+
+There is a clear top performer, with the highest customer CLV at £3.6K, significantly above the rest, and worth 65% more than the second-highest customer.
+
+Home Office has the highest CLV £805, followed by Corporate £784 and Consumer £777.
+
+North Asia and Central Asia stand out with CLV above £1,100, substantially higher than all other regions.
+
+### QUESTION 10: How do customer segments perform differently across various global regions?
+
+![SegmentPerformance](assets/image/Screenshot 2025-12-03 221155.png)
+
+Central is by far the highest-performing region across all segments.
+
+The Consumer segment consistently delivers the highest sales in every region.
+
+Corporate is the middle performer across most regions.
+
+Home Office contributes the lowest revenue in every region.
+
+South and North Regions Are Strong Secondary Markets.
+
+## Recommendations:
+
+
+
+
 
 
 
