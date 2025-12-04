@@ -1,5 +1,4 @@
-# Customer Segmentation Analysis for Data-driven Marketing Strategies
-# Excel to Power BI
+# Data Portfolio: Excel to Power BI
 
 
 ## Business Problem 
@@ -26,11 +25,12 @@ Data was extracted from Excel into Power Query for Data Cleansing
 ![DataExtraction](assets/image/Dataextrac.png)
 
 ### Data Cleansing/Transformation
-- Validated Data
-- Removed Duplicates
+- Number of Columns = 24
+- Number of Rows = 51290
+- Duplicates = 0
+- Blank Rows/Columns = 0
 - Changed Data Type
-- Replace null/blank columns with placeholders
-- 
+ 
 ![DataCleaning](assets/image/DataCleaning.png)
 
 ### Data Loading
@@ -52,6 +52,7 @@ Loaded data into Power BI for Analysis
 
 ### Summary of Key Insights- Dashboard
 ![Dashboard](assets/image/Screenshot 2025-12-02 214228.png)
+
 
 ### Question 1: What is the total sales volume for each customer segment (Consumer, Corporate, Home Office)?
 
